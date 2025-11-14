@@ -9,7 +9,7 @@ Our team collaborated to build a full-stack web application using MERN Stack and
 
 | Name | GitHub |
 |------|--------|
-| Jakkrit Saychang| https://github.com/xxx |
+| Jakkrit Saychang No. 13| https://github.com/xxx |
 | xxxxxxxxxxxxxxx | https://github.com/xxx |
 | xxxxxxxxxxxxxxx | https://github.com/xxx |
 | xxxxxxxxxxxxxxx | https://github.com/xxx |
