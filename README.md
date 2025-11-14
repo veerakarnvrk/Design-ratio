@@ -12,7 +12,7 @@ Our team collaborated to build a full-stack web application using MERN Stack and
 | Chutidet Benchathamloed No. 09 | https://github.com/ChutidetBen-oss |
 | Jakkrit Saychang No. 13| https://github.com/xxx |
 | Nattha Sritanaanant No. 23 | https://github.com/xxx |
-| xxxxxxxxxxxxxxx | https://github.com/xxx |
+| Chanapoom Kulpraphruet No.06 | https://github.com/xxx |
 
 
 ---
